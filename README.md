@@ -1,2 +1,2 @@
 # workspace
-An awesome workspace ! Feel free to explore, execute and contribute.
+An awesome workspace ! Feel free to explore it, execute it and contribute !
